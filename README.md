@@ -50,7 +50,7 @@ This project demonstrates real-time color detection and color blindness simulati
     Execute the script to start capturing video from the webcam and perform color detection and simulation:
 
     ```bash
-    python color_detection_blindness_simulation.py
+    python Color Detection and Color Blindness Simulation.py
     ```
 
 2. **Provide Input**:
@@ -72,6 +72,3 @@ This project demonstrates real-time color detection and color blindness simulati
 
 Feel free to explore, contribute, or adapt the code to fit your needs. If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
